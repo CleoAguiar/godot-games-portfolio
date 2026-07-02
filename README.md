@@ -24,12 +24,12 @@ My goal is to keep improving through practice and building complete playable gam
 
 ### 🟢 Completed
 
-#### 🚀 Speedy Soucer
+#### 🚀 Stellar Grand Prix
 - Genre: 2D Arcade
 - Engine: Godot 4
 - Status: Completed
 - Repository: https://github.com/CleoAguiar/speedy_soucer 
-- Play: https://itch.io/ *(coming soon)*
+- Play: https://cleoaguiar.itch.io/stellar-grand-prix
 
 ---
 
